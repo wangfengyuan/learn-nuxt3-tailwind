@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+    .text-active {
+        color: #FFE500
+    }
+    .li-active {
+        @apply text-lg text-active shadow-md
+    }
+}
+@font-face {
+    font-family: 'dinm';
+    src: url('../font/DINMITTELSCHRIFTSTD.eot');
+    src: url('../font/DINMITTELSCHRIFTSTD.eot?#iefix') format('embedded-opentype'),
+         url('../font/DINMITTELSCHRIFTSTD.woff') format('woff'),
+         url('../font/DINMITTELSCHRIFTSTD.ttf') format('truetype'),
+         url('../font/DINMITTELSCHRIFTSTD.svg#webfont34M5alKg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
