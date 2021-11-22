@@ -1,6 +1,6 @@
 <template>
     <div class="absolute w-full z-10">
-        <div class="container md:p-6% px-5 mx-auto h-[68px] text-center flex justify-between text-white">
+        <div class="2xl:w-[1440px]  2xl:p-0 md:p-6% mx-auto h-[68px] text-center flex justify-between text-white">
             <div class="float-left flex flex-wrap items-center">
                 <h1>
                     <img  class="h-7 py-auto" src="../assets/images/pc-logo.png" alt=""/>

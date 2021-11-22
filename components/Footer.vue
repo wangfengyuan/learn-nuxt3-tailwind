@@ -1,6 +1,6 @@
 <template>
     <div class="min-h-[120px] py-8  text-xs bg-blue-dark">
-        <div class="container md:p-6% px-5 mx-auto">
+        <div class="max-w-[990px] p-6% xl:px-0 container mx-auto">
             <div class="border-b-[1px] border-white border-opacity-10 flex justify-between py-4 mb-8">
                 <div class="text-white opacity-40">
                     <p class="leading-5">Recharges is not available？</p>

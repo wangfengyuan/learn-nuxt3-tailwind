@@ -8,6 +8,12 @@
     .li-active {
         @apply text-lg text-active shadow-md
     }
+    .nav-li {
+        @apply mr-8 h-[68px] leading-[68px]
+    }
+    .nav-link {
+        @apply opacity-60 hover:text-[#FFE500] hover:opacity-100
+    }
 }
 @font-face {
     font-family: 'dinm';

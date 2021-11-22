@@ -10,6 +10,10 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      inset: {
+        '100%': '100%',
+        '7%': '7%',
+      },
       padding: {
         '6%': '0 6%',
       },
