@@ -1,7 +1,7 @@
 <template>
     <div class="w-full h-60 2xl:h-80 relative text-white overflow-hidden">
         <div class="absolute inset-0">
-            <img class="h-60 2xl:h-80 bg-cover bg-center w-full" src="../assets/images/game-list-banner.png" alt="">
+            <img class="h-60 2xl:h-80 bg-cover bg-center w-full" src="~/assets/images/game-list-banner.png" alt="">
         </div>
         <div class="max-w-[990px] p-6% xl:px-0 container mx-auto absolute h-60 2xl:h-80 inset-0">
             <div class="bg-slide-pre w-4 h-9 inline-block bg-cover absolute top-1/2"></div>
@@ -20,7 +20,7 @@
                 </li>
                 <li class="nav-li li-active opacity-100 relative">
                     <a href="#">ITEMS</a>
-                    <img class="w-20 h-10 absolute bottom-0" src="../assets/images/tab-active.png" alt="">
+                    <img class="w-20 h-10 absolute bottom-0" src="~/assets/images/tab-active.png" alt="">
                 </li>
             </ul>
         </div>

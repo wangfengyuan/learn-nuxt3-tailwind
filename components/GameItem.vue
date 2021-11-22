@@ -7,7 +7,7 @@
                 <span class="inline-block w-[7px] h-6 bg-channel-corner bg-cover"></span>
                 <span class="inline-block h-6 leading-6 bg-strong-yellow pr-2">PrefferdP...</span> 
             </div>
-            <img class="transition transform hover:scale-110" src="../assets/images/shop.png" alt="">
+            <img class="transition transform hover:scale-110" src="~/assets/images/shop.png" alt="">
             <p class="absolute bottom-0 truncate bg-black bg-opacity-30 w-full py-[6px] px-4 text-gold text-[12px]">One purchase only one purchase only one purchase only</p>
         </div>
         <div class="p-4 text-white min-h-[126px] flex flex-col justify-between">
